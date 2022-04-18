@@ -9,7 +9,7 @@ import router from "./router";
    domain,
    client_id,
    redirect_uri,
-   audience: "https://expenses-api", // 👈 Added
+   // audience: "https://expenses-api", // 👈 Added
    // scope: "read:reports", // 👈 Added 
   });
 
